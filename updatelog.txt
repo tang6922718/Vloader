@@ -1,0 +1,1180 @@
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05598.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05599.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05598.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05598.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05596.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05597.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05596.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05596.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05508.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05508.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05509.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05510.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05508.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05508.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05578.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05574.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05576.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05580.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05582.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05584.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05586.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05570.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05600.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05601.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05608.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05611.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05609.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05612.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05610.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05613.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05602.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05603.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05602.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05594.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05594.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05595.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05594.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05588.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05589.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05588.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05589.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05619.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05619.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05620.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05619.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05590.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05590.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05591.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05590.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05571.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05606.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05607.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05606.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05607.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05606.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05607.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05588.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05588.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05619.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05590.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05592.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05594.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05587.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05617.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05618.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	.
+2018-6-1 15:01:23	.
+2018-6-1 15:01:23	进入游戏预处理......
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05587.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05592.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05592.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05593.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05578.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05574.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05576.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05580.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05582.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05584.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05586.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05614.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05614.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05614.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05536.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05538.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05616.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05539.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05539.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05623.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05621.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05621.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05622.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05621.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05565.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05565.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05566.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	LoadImageEx Failed, File Name : ./data/autoui/05560.bmp, Error Code : 2
+.
+2018-6-1 15:01:23	add download file: global_md5.ini.
+2018-6-1 15:01:23	add download file: global_filesmap.ini.
+2018-6-1 15:01:23	add download file: global_filelist.ini.
+2018-6-1 15:01:24	to download file:.
+2018-6-1 15:01:24	download/global/global_md5.ini.
+2018-6-1 15:01:24	fail to open file(download/global/global_md5.ini?f=1527836484) in UrlFile::Open, last_error(12006), error_info(), error_code(0)
+2018-6-1 15:01:24	fail to open remote file!.
+2018-6-1 15:01:24	download files cancelled!.
+2018-6-1 15:01:24	LoadImageEx Failed, File Name : ./data/autoui/05563.bmp, Error Code : 2
+.
+2018-6-1 15:01:24	LoadImageEx Failed, File Name : ./data/autoui/05563.bmp, Error Code : 2
+.
+2018-6-1 15:01:24	LoadImageEx Failed, File Name : ./data/autoui/05564.bmp, Error Code : 2
+.
+2018-6-1 15:01:24	LoadImageEx Failed, File Name : ./data/autoui/05565.bmp, Error Code : 2
+.
+2018-6-1 15:01:24	LoadImageEx Failed, File Name : ./data/autoui/05565.bmp, Error Code : 2
+.
+2018-6-1 15:01:24	LoadImageEx Failed, File Name : ./data/autoui/05566.bmp, Error Code : 2
+.
+2018-6-1 15:01:24	LoadImageEx Failed, File Name : ./data/autoui/05561.bmp, Error Code : 2
+.
+2018-6-1 15:01:24	LoadImageEx Failed, File Name : ./data/autoui/05561.bmp, Error Code : 2
+.
+2018-6-1 15:01:24	LoadImageEx Failed, File Name : ./data/autoui/05562.bmp, Error Code : 2
+.
+2018-6-1 15:01:24	LoadImageEx Failed, File Name : ./data/autoui/05560.bmp, Error Code : 2
+.
+2018-6-1 15:01:27	abandon to download files.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05598.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05599.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05598.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05598.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05596.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05597.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05596.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05596.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05508.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05508.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05509.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05510.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05508.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05508.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05578.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05574.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05576.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05580.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05582.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05584.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05586.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05570.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05600.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05601.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05608.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05611.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05609.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05612.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05610.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05613.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05602.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05603.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05602.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05594.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05594.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05595.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05594.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05588.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05589.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05588.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05589.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05619.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05619.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05620.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05619.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05590.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05590.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05591.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05590.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05571.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05606.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05607.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05606.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05607.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05606.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05607.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05588.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05588.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05619.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05590.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05592.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05594.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05587.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05617.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05618.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	.
+2018-6-1 15:15:21	.
+2018-6-1 15:15:21	进入游戏预处理......
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05587.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05592.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05592.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05593.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05578.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05574.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05576.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05580.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05582.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05584.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05586.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05614.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05614.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05614.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05536.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05538.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05616.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05539.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05539.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05623.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05621.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05621.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05622.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05621.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05565.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05565.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05566.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05560.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	add download file: global_md5.ini.
+2018-6-1 15:15:21	add download file: global_filesmap.ini.
+2018-6-1 15:15:21	add download file: global_filelist.ini.
+2018-6-1 15:15:21	to download file:.
+2018-6-1 15:15:21	download/global/global_md5.ini.
+2018-6-1 15:15:21	fail to open file(download/global/global_md5.ini?f=1527837321) in UrlFile::Open, last_error(12006), error_info(), error_code(0)
+2018-6-1 15:15:21	fail to open remote file!.
+2018-6-1 15:15:21	download files cancelled!.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05563.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05563.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05564.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05565.bmp, Error Code : 2
+.
+2018-6-1 15:15:21	LoadImageEx Failed, File Name : ./data/autoui/05565.bmp, Error Code : 2
+.
+2018-6-1 15:15:22	LoadImageEx Failed, File Name : ./data/autoui/05566.bmp, Error Code : 2
+.
+2018-6-1 15:15:22	LoadImageEx Failed, File Name : ./data/autoui/05561.bmp, Error Code : 2
+.
+2018-6-1 15:15:22	LoadImageEx Failed, File Name : ./data/autoui/05561.bmp, Error Code : 2
+.
+2018-6-1 15:15:22	LoadImageEx Failed, File Name : ./data/autoui/05562.bmp, Error Code : 2
+.
+2018-6-1 15:15:22	LoadImageEx Failed, File Name : ./data/autoui/05560.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05598.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05599.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05598.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05598.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05596.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05597.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05596.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05596.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05508.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05508.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05509.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05510.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05508.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05508.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05578.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05574.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05576.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05580.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05582.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05584.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05586.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05570.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05600.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05601.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05608.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05611.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05609.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05612.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05610.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05613.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05602.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05603.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05602.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05594.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05594.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05595.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05594.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05588.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05589.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05588.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05589.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05619.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05619.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05620.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05619.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05590.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05590.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05591.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05590.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05571.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05606.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05607.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05606.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05607.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05606.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05607.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05604.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05605.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05588.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05588.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05619.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05590.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05592.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05594.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05587.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05617.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05618.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	.
+2018-6-1 16:15:28	.
+2018-6-1 16:15:28	进入游戏预处理......
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05587.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05592.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05592.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05593.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05578.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05574.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05576.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05580.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05582.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05584.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05586.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05614.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05614.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05615.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05614.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05536.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05538.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05616.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05573.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05575.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05577.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05579.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05581.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05583.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05585.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05539.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05539.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05535.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05537.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05623.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05621.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05621.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05622.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05621.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05565.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05565.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05566.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	LoadImageEx Failed, File Name : ./data/autoui/05560.bmp, Error Code : 2
+.
+2018-6-1 16:15:28	add download file: global_md5.ini.
+2018-6-1 16:15:28	add download file: global_filesmap.ini.
+2018-6-1 16:15:28	add download file: global_filelist.ini.
+2018-6-1 16:15:28	to download file:.
+2018-6-1 16:15:28	download/global/global_md5.ini.
+2018-6-1 16:15:28	fail to open file(download/global/global_md5.ini?f=1527840928) in UrlFile::Open, last_error(12006), error_info(), error_code(0)
+2018-6-1 16:15:28	fail to open remote file!.
+2018-6-1 16:15:28	download files cancelled!.
+2018-6-1 16:15:29	LoadImageEx Failed, File Name : ./data/autoui/05563.bmp, Error Code : 2
+.
+2018-6-1 16:15:29	LoadImageEx Failed, File Name : ./data/autoui/05563.bmp, Error Code : 2
+.
+2018-6-1 16:15:29	LoadImageEx Failed, File Name : ./data/autoui/05564.bmp, Error Code : 2
+.
+2018-6-1 16:15:29	LoadImageEx Failed, File Name : ./data/autoui/05565.bmp, Error Code : 2
+.
+2018-6-1 16:15:29	LoadImageEx Failed, File Name : ./data/autoui/05565.bmp, Error Code : 2
+.
+2018-6-1 16:15:29	LoadImageEx Failed, File Name : ./data/autoui/05566.bmp, Error Code : 2
+.
+2018-6-1 16:15:29	LoadImageEx Failed, File Name : ./data/autoui/05561.bmp, Error Code : 2
+.
+2018-6-1 16:15:29	LoadImageEx Failed, File Name : ./data/autoui/05561.bmp, Error Code : 2
+.
+2018-6-1 16:15:29	LoadImageEx Failed, File Name : ./data/autoui/05562.bmp, Error Code : 2
+.
+2018-6-1 16:15:29	LoadImageEx Failed, File Name : ./data/autoui/05560.bmp, Error Code : 2
+.
