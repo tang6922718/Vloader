@@ -38,7 +38,6 @@
             <artifactId>htmlunit</artifactId>
             <version>2.23</version>
         </dependency>
-
         <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
@@ -159,5 +158,12 @@
             <artifactId>word</artifactId>
             <version>1.1</version>
         </dependency>
+      <!--引入hutool工具类，以应变开发需求，减少重复轮子-->
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>4.1.8</version>
+        </dependency>
+
     </dependencies>
 </project>
