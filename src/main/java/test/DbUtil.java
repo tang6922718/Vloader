@@ -51,6 +51,20 @@ public class DbUtil {
     }
 
 
+    public static boolean MysqlExceute1(String sql) {
+        try {
+            try (DruidPooledConnection connection = ServerDBConnection.INSTANCE.getConnection();
+                 PreparedStatement pst = connection.prepareStatement(sql)) {
+                return pst.execute();
+
+            }
+        } catch (SQLException e) {
+            System.out.println("数据操作异常--》" + e.getMessage());
+            e.printStackTrace();
+        }
+        return false;
+    }
+
     //合并表
     public int MysqlHB(String selectSql, String insertSql) {
         try {

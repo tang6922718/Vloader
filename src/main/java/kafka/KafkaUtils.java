@@ -65,8 +65,7 @@ public class KafkaUtils {
      * @param msg
      */
     public static void sendMsgToKafka(String topic,String msg) {
-        producer.send(new ProducerRecord<String, String>(topic, String.valueOf(new Date().getTime()),
-                msg));
+        producer.send(new ProducerRecord<String, String>(topic, String.valueOf(new Date().getTime()), msg));
     }
 
 
