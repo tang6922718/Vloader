@@ -68,7 +68,8 @@ public class DownloadImage {
         FileOutputStream fos  = null;
         PrintWriter pw = null;
         try {
-            File file = new File(filepath);//文件路径(包括文件名称)
+            //文件路径(包括文件名称)
+            File file = new File(filepath);
             fos = new FileOutputStream(file);
             pw = new PrintWriter(fos);
             pw.write(content);
@@ -101,7 +102,6 @@ public class DownloadImage {
 
     @Test
     public  void  start(){
-            this.createFile("G:\\log\\","22333","吃饭了吗？");
-
+            createFile("G:\\log\\","22333","吃饭了吗？");
     }
 }

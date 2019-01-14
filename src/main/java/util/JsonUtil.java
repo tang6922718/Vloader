@@ -9,10 +9,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author boncajin
- *
- */
+
 public class JsonUtil {
 
     private static Gson gson = null;
