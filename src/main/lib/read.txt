@@ -1,0 +1,4 @@
+1.phantomjs-2.1.1-windows  存放的是  phantomjs 一种无界面的 操作web的驱动
+
+2.chromedriver.exe的下载需要对应本地  chrome的版本下载对应驱动    目前存放的是 73.0.3683.75 chrome版本对应的驱动
+  下载网址   http://npm.taobao.org/mirrors/chromedriver/
